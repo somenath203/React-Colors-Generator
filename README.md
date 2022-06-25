@@ -6,9 +6,10 @@ This is a website created with the help of React.js where the user will be able 
 
 The input field also got validation which prevent user from entering any wrong hexcode.
 
-<br />
 
 In the website, the default value of the hex code in the input field is set to #f15025 so that the user after visiting the website for the first time can know how the website is working and how the colors are generated.
+
+<br />
 
 NOTE :- 
 
