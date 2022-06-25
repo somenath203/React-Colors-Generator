@@ -193,8 +193,15 @@ input {
 }
 
 @media screen and (max-width: 576px) {
+  h3 {
+    text-align: center;
+    margin-top: 2rem;
+  }
   .container h3 {
     font-size: 1rem;
+  }
+  form {
+    width: 90%;
   }
   input,
   .btn {
