@@ -8,6 +8,8 @@ The input field also got validation which prevent user from entering any wrong h
 
 <br />
 
+In the website, the default value of the hex code in the input field is set to #f15025 so that the user after visiting the website for the first time can know how the website is working and how the colors are generated.
+
 NOTE :- 
 
 Tints are light values that are created by mixing a color with white, which increases lightness. 
